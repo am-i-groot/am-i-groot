@@ -39,11 +39,11 @@
 
 ## 🧠 My Development Philosophy
 
-I see **cognitive dissonance**—the mental discomfort of holding conflicting ideas—not as a problem to avoid, but as the most reliable signal for a learning opportunity. In my code and collaborations, I strive to:
+I see cognitive dissonance, the mental discomfort of holding conflicting ideas, not as a problem to avoid, but as the most reliable signal for a learning opportunity. In my code and collaborations, I strive to:
 
-*   **Seek the "Why?"** behind every bug and design decision.
-*   **Embrace Code Reviews** as a gift of an alternate perspective.
-*   **Document My Thinking** to expose flaws in my own logic.
-*   **Prioritize Understanding** over being right.
+*   Seek the "Why?" behind every bug and design decision.
+*   Embrace Code Reviews as a gift of an alternate perspective.
+*   Document My Thinking to expose flaws in my own logic.
+*   Prioritize Understanding over being right.
 
 The best solutions often lie just beyond the point of initial discomfort.
